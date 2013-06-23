@@ -1,0 +1,10 @@
+This runs a classic bingo game.  Model can choose a
+minimum tip for play, number of cards to use, whether
+ the center square is a 'free' square, and subjects for the bingo and counter.
+
+In addition, a 'Tip King'-style counter is also maintained
+for additional tipping/show options.
+
+Models should type /rules for additional options available to them.
+
+
